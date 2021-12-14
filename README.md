@@ -4,4 +4,4 @@ This project contains two grooms using geometry strands, very heavy, with MSAA a
 Unity 22.1.0b1
 HDRP 13.1.2
 
-![Illustration](Capture.png)
+![Illustration](Capture.PNG)
